@@ -9,3 +9,10 @@
 5. 배포
 
 # 
+## Project Presentation
+
+### Slide Previews
+
+![Slide 1](./Lol_site2.png)
+![Slide 2](./lol_site.png)
+
